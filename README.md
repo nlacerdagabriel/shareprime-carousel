@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+#
 
 # shareprime-carousel
 
@@ -9,12 +10,14 @@ Este é um projeto de carrossel para a SharePrime. Ele utiliza React, React Rout
 Para instalar as dependências, execute o seguinte comando:
 ```bash
 npm install
+```
 
 ## Uso
 Para iniciar o ambiente de desenvolvimento, utilize o comando:
 
 ```bash
 npm run dev
+```
 
 # Tecnologias utilizadas
 React
