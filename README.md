@@ -1,6 +1,3 @@
-# React + TypeScript + Vite
-#
-
 # shareprime-carousel
 
 ## Descrição
