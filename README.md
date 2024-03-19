@@ -1,30 +1,27 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# shareprime-carousel
 
-Currently, two official plugins are available:
+## Descrição
+Este é um projeto de carrossel para a SharePrime. Ele utiliza React, React Router DOM, React Slick, Styled Components, Fluent UI, Axios, Polished e TypeScript.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalação
+Para instalar as dependências, execute o seguinte comando:
+```bash
+npm install
 
-## Expanding the ESLint configuration
+## Uso
+Para iniciar o ambiente de desenvolvimento, utilize o comando:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+```bash
+npm run dev
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Tecnologias utilizadas
+React
+React Router DOM
+React Slick
+Styled Components
+Fluent UI
+Axios
+Polished
+TypeScript
