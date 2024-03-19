@@ -16,12 +16,12 @@ Para iniciar o ambiente de desenvolvimento, utilize o comando:
 npm run dev
 ```
 
-# Tecnologias utilizadas
-React
-React Router DOM
-React Slick
-Styled Components
-Fluent UI
-Axios
-Polished
-TypeScript
+## Tecnologias utilizadas
+- React
+- React Router DOM
+- React Slick
+- Styled Components
+- Fluent UI
+- Axios
+- Polished
+- TypeScript
